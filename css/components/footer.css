@@ -1,0 +1,12 @@
+footer p{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 1.4rem;
+line-height: 179%;
+color: #747373;
+margin-top: 4rem;
+}
+footer{
+    padding-top: 8rem;
+    padding-bottom: 5rem;
+}
